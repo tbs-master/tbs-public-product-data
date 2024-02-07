@@ -9,7 +9,7 @@ When viewing the /images directory in a browser, GitHub will only show you a sub
 
 Image filenames are based on the product code for the product the image depicts, with a letter appended - e.g. 31/ABK becomes 31_ABK-a.jpg, 31_ABK-b.jpg, etc. See the TBS Branding Guidelines for more details on standard images and naming conventions.
 
-Some products also have some more contextual images; these contain the 'art' suffic - e.g. 31_ABK-art-a.jpg
+Some products also have some more contextual images; these contain the 'art' suffix - e.g. 31_ABK-art-a.jpg
 
 This repository acts as the master source for all TBS product images.
 
