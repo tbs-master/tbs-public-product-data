@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Thu Jun 13 2024 11:31:29 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Jun 14 2024 10:18:47 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -122,22 +122,15 @@ ENGGTC24 | <img src="product-images/ENGGTC24-front-1.jpg"> | <img src="product-i
 ENGGTC25 | <img src="product-images/ENGGTC25-front-1.jpg"> | <img src="product-images/ENGGTC25-back-1.jpg"> | <img src="product-images/ENGGTC25-open-1.jpg"> | <img src="product-images/ENGGTC25-detail-1.jpg"> | <img src="product-images/ENGGTC25-sample-1.jpg">
 AFRGTC24 | <img src="product-images/AFRGTC24-front-1.jpg"> | <img src="product-images/AFRGTC24-back-1.jpg"> | <img src="product-images/AFRGTC24-open-1.jpg"> | <img src="product-images/AFRGTC24-detail-1.jpg"> | <img src="product-images/AFRGTC24-sample-1.jpg">
 ALBWLC24 | <img src="product-images/ALBWLC24-front-1.jpg"> | <img src="product-images/ALBWLC24-back-1.jpg"> | <img src="product-images/ALBWLC24-open-1.jpg"> | <img src="product-images/ALBWLC24-detail-1.jpg"> | <img src="product-images/ALBWLC24-sample-1.jpg">
-ALBWLC25 | <img src="product-images/ALBWLC25-front-1.jpg"> | <img src="product-images/ALBWLC25-back-1.jpg"> | <img src="product-images/ALBWLC25-open-1.jpg"> | <img src="product-images/ALBWLC25-detail-1.jpg"> | <img src="product-images/ALBWLC25-sample-1.jpg">
 BULWLC24 | <img src="product-images/BULWLC24-front-1.jpg"> | <img src="product-images/BULWLC24-back-1.jpg"> | <img src="product-images/BULWLC24-open-1.jpg"> | <img src="product-images/BULWLC24-detail-1.jpg"> | <img src="product-images/BULWLC24-sample-1.jpg">
-BULWLC25 | <img src="product-images/BULWLC25-front-1.jpg"> | <img src="product-images/BULWLC25-back-1.jpg"> | <img src="product-images/BULWLC25-open-1.jpg"> | <img src="product-images/BULWLC25-detail-1.jpg"> | <img src="product-images/BULWLC25-sample-1.jpg">
 CATWLC24 | <img src="product-images/CATWLC24-front-1.jpg"> | <img src="product-images/CATWLC24-back-1.jpg"> | <img src="product-images/CATWLC24-open-1.jpg"> | <img src="product-images/CATWLC24-detail-1.jpg"> | <img src="product-images/CATWLC24-sample-1.jpg">
-CATWLC25 | <img src="product-images/CATWLC25-front-1.jpg"> | <img src="product-images/CATWLC25-back-1.jpg"> | <img src="product-images/CATWLC25-open-1.jpg"> | <img src="product-images/CATWLC25-detail-1.jpg"> | <img src="product-images/CATWLC25-sample-1.jpg">
 CHIWLC24 | <img src="product-images/CHIWLC24-front-1.jpg"> | <img src="product-images/CHIWLC24-back-1.jpg"> | <img src="product-images/CHIWLC24-open-1.jpg"> | <img src="product-images/CHIWLC24-detail-1.jpg"> | <img src="product-images/CHIWLC24-sample-1.jpg">
 FRAWLC24 | <img src="product-images/FRAWLC24-front-1.jpg"> | <img src="product-images/FRAWLC24-back-1.jpg"> | <img src="product-images/FRAWLC24-open-1.jpg"> | <img src="product-images/FRAWLC24-detail-1.jpg"> | <img src="product-images/FRAWLC24-sample-1.jpg">
 FRAWLC25 | <img src="product-images/FRAWLC25-front-1.jpg"> | <img src="product-images/FRAWLC25-back-1.jpg"> | <img src="product-images/FRAWLC25-open-1.jpg"> | <img src="product-images/FRAWLC25-detail-1.jpg"> | <img src="product-images/FRAWLC25-sample-1.jpg">
-HUNWLC25 | <img src="product-images/HUNWLC25-front-1.jpg"> | <img src="product-images/HUNWLC25-back-1.jpg"> | <img src="product-images/HUNWLC25-open-1.jpg"> | <img src="product-images/HUNWLC25-detail-1.jpg"> | <img src="product-images/HUNWLC25-sample-1.jpg">
 NDEGTC24 | <img src="product-images/NDEGTC24-front-1.jpg"> | <img src="product-images/NDEGTC24-back-1.jpg"> | <img src="product-images/NDEGTC24-open-1.jpg"> | <img src="product-images/NDEGTC24-detail-1.jpg"> | <img src="product-images/NDEGTC24-sample-1.jpg">
 RONWLC24 | <img src="product-images/RONWLC24-front-1.jpg"> | <img src="product-images/RONWLC24-back-1.jpg"> | <img src="product-images/RONWLC24-open-1.jpg"> | <img src="product-images/RONWLC24-detail-1.jpg"> | <img src="product-images/RONWLC24-sample-1.jpg">
-RONWLC25 | <img src="product-images/RONWLC25-front-1.jpg"> | <img src="product-images/RONWLC25-back-1.jpg"> | <img src="product-images/RONWLC25-open-1.jpg"> | <img src="product-images/RONWLC25-detail-1.jpg"> | <img src="product-images/RONWLC25-sample-1.jpg">
 RUSWLC25 | <img src="product-images/RUSWLC25-front-1.jpg"> | <img src="product-images/RUSWLC25-back-1.jpg"> | <img src="product-images/RUSWLC25-open-1.jpg"> | <img src="product-images/RUSWLC25-detail-1.jpg"> | <img src="product-images/RUSWLC25-sample-1.jpg">
 SNAGTC24 | <img src="product-images/SNAGTC24-front-1.jpg"> | <img src="product-images/SNAGTC24-back-1.jpg"> | <img src="product-images/SNAGTC24-open-1.jpg"> | <img src="product-images/SNAGTC24-detail-1.jpg"> | <img src="product-images/SNAGTC24-sample-1.jpg">
-SPAWLC25 | <img src="product-images/SPAWLC25-front-1.jpg"> | <img src="product-images/SPAWLC25-back-1.jpg"> | <img src="product-images/SPAWLC25-open-1.jpg"> | <img src="product-images/SPAWLC25-detail-1.jpg"> | <img src="product-images/SPAWLC25-sample-1.jpg">
-UKRWLC25 | <img src="product-images/UKRWLC25-front-1.jpg"> | <img src="product-images/UKRWLC25-back-1.jpg"> | <img src="product-images/UKRWLC25-open-1.jpg"> | <img src="product-images/UKRWLC25-detail-1.jpg"> | <img src="product-images/UKRWLC25-sample-1.jpg">
 CYMWLC24 | <img src="product-images/CYMWLC24-front-1.jpg"> | <img src="product-images/CYMWLC24-back-1.jpg"> | <img src="product-images/CYMWLC24-open-1.jpg"> | <img src="product-images/CYMWLC24-detail-1.jpg"> | <img src="product-images/CYMWLC24-sample-1.jpg">
 CYMWLC25 | <img src="product-images/CYMWLC25-front-1.jpg"> | <img src="product-images/CYMWLC25-back-1.jpg"> | <img src="product-images/CYMWLC25-open-1.jpg"> | <img src="product-images/CYMWLC25-detail-1.jpg"> | <img src="product-images/CYMWLC25-sample-1.jpg">
 XHOGTC24 | <img src="product-images/XHOGTC24-front-1.jpg"> | <img src="product-images/XHOGTC24-back-1.jpg"> | <img src="product-images/XHOGTC24-open-1.jpg"> | <img src="product-images/XHOGTC24-detail-1.jpg"> | <img src="product-images/XHOGTC24-sample-1.jpg">
