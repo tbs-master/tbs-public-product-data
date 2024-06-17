@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Mon Jun 17 2024 13:48:57 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Mon Jun 17 2024 15:05:05 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -57,7 +57,6 @@ AMHJN | <img src="product-images/AMHJN-front-1.jpg"> | <img src="product-images/
 ARBB/ABK | <img src="product-images/ARBB_ABK-front-1.jpg"> | <img src="product-images/ARBB_ABK-back-1.jpg"> | <img src="product-images/ARBB_ABK-open-1.jpg"> | <img src="product-images/ARBB_ABK-detail-1.jpg"> | <img src="product-images/ARBB_ABK-sample-1.jpg">
 ARBNT/SBL | <img src="product-images/ARBNT_SBL-front-1.jpg"> | <img src="product-images/ARBNT_SBL-back-1.jpg"> | <img src="product-images/ARBNT_SBL-open-1.jpg"> | <img src="product-images/ARBNT_SBL-detail-1.jpg"> | <img src="product-images/ARBNT_SBL-sample-1.jpg">
 ARBJN | <img src="product-images/ARBJN-front-1.jpg"> | <img src="product-images/ARBJN-back-1.jpg"> | <img src="product-images/ARBJN-open-1.jpg"> | <img src="product-images/ARBJN-detail-1.jpg"> | <img src="product-images/ARBJN-sample-1.jpg">
-ARMB/ABK | <img src="product-images/ARMB_ABK-front-1.jpg"> | <img src="product-images/ARMB_ABK-back-1.jpg"> | <img src="product-images/ARMB_ABK-open-1.jpg"> | <img src="product-images/ARMB_ABK-detail-1.jpg"> | <img src="product-images/ARMB_ABK-sample-1.jpg">
 ARMNTP/SBK | <img src="product-images/ARMNTP_SBK-front-1.jpg"> | <img src="product-images/ARMNTP_SBK-back-1.jpg"> | <img src="product-images/ARMNTP_SBK-open-1.jpg"> | <img src="product-images/ARMNTP_SBK-detail-1.jpg"> | <img src="product-images/ARMNTP_SBK-sample-1.jpg">
 ARMJN2 | <img src="product-images/ARMJN2-front-1.jpg"> | <img src="product-images/ARMJN2-back-1.jpg"> | <img src="product-images/ARMJN2-open-1.jpg"> | <img src="product-images/ARMJN2-detail-1.jpg"> | <img src="product-images/ARMJN2-sample-1.jpg">
 BEMJN | <img src="product-images/BEMJN-front-1.jpg"> | <img src="product-images/BEMJN-back-1.jpg"> | <img src="product-images/BEMJN-open-1.jpg"> | <img src="product-images/BEMJN-detail-1.jpg"> | <img src="product-images/BEMJN-sample-1.jpg">
