@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Wed Jul 24 2024 09:34:35 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Wed Jul 24 2024 09:41:54 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -57,6 +57,7 @@ AMHJN | <img src="web-images/AMHJN-front-1.jpg"> | <img src="web-images/AMHJN-ba
 ARBB/ABK | <img src="web-images/ARBB_ABK-front-1.jpg"> | <img src="web-images/ARBB_ABK-back-1.jpg"> | <img src="web-images/ARBB_ABK-open-1.jpg"> | <img src="web-images/ARBB_ABK-detail-1.jpg"> | <img src="web-images/ARBB_ABK-sample-1.jpg">
 ARBNT/SBL | <img src="web-images/ARBNT_SBL-front-1.jpg"> | <img src="web-images/ARBNT_SBL-back-1.jpg"> | <img src="web-images/ARBNT_SBL-open-1.jpg"> | <img src="web-images/ARBNT_SBL-detail-1.jpg"> | <img src="web-images/ARBNT_SBL-sample-1.jpg">
 ARBJN | <img src="web-images/ARBJN-front-1.jpg"> | <img src="web-images/ARBJN-back-1.jpg"> | <img src="web-images/ARBJN-open-1.jpg"> | <img src="web-images/ARBJN-detail-1.jpg"> | <img src="web-images/ARBJN-sample-1.jpg">
+ARMB/ABK | <img src="web-images/ARMB_ABK-front-1.jpg"> | <img src="web-images/ARMB_ABK-back-1.jpg"> | <img src="web-images/ARMB_ABK-open-1.jpg"> | <img src="web-images/ARMB_ABK-detail-1.jpg"> | <img src="web-images/ARMB_ABK-sample-1.jpg">
 ARMNTP/SBK | <img src="web-images/ARMNTP_SBK-front-1.jpg"> | <img src="web-images/ARMNTP_SBK-back-1.jpg"> | <img src="web-images/ARMNTP_SBK-open-1.jpg"> | <img src="web-images/ARMNTP_SBK-detail-1.jpg"> | <img src="web-images/ARMNTP_SBK-sample-1.jpg">
 ARMJN2 | <img src="web-images/ARMJN2-front-1.jpg"> | <img src="web-images/ARMJN2-back-1.jpg"> | <img src="web-images/ARMJN2-open-1.jpg"> | <img src="web-images/ARMJN2-detail-1.jpg"> | <img src="web-images/ARMJN2-sample-1.jpg">
 BEMJN | <img src="web-images/BEMJN-front-1.jpg"> | <img src="web-images/BEMJN-back-1.jpg"> | <img src="web-images/BEMJN-open-1.jpg"> | <img src="web-images/BEMJN-detail-1.jpg"> | <img src="web-images/BEMJN-sample-1.jpg">
