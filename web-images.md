@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Tue Aug 06 2024 17:22:46 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Aug 16 2024 16:42:00 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -124,6 +124,8 @@ UKRJN | <img src="web-images/UKRJN-front-1.jpg"> | <img src="web-images/UKRJN-ba
 CYMMK | <img src="web-images/CYMMK-front-1.jpg"> | <img src="web-images/CYMMK-back-1.jpg"> | <img src="web-images/CYMMK-open-1.jpg"> | <img src="web-images/CYMMK-detail-1.jpg"> | <img src="web-images/CYMMK-sample-1.jpg">
 ENGWLC25 | <img src="web-images/ENGWLC25-front-1.jpg"> | <img src="web-images/ENGWLC25-back-1.jpg"> | <img src="web-images/ENGWLC25-open-1.jpg"> | <img src="web-images/ENGWLC25-detail-1.jpg"> | <img src="web-images/ENGWLC25-sample-1.jpg">
 ENGGTC25 | <img src="web-images/ENGGTC25-front-1.jpg"> | <img src="web-images/ENGGTC25-back-1.jpg"> | <img src="web-images/ENGGTC25-open-1.jpg"> | <img src="web-images/ENGGTC25-detail-1.jpg"> | <img src="web-images/ENGGTC25-sample-1.jpg">
+DY25/SBL | <img src="web-images/DY25_SBL-front-1.jpg"> | <img src="web-images/DY25_SBL-back-1.jpg"> | <img src="web-images/DY25_SBL-open-1.jpg"> | <img src="web-images/DY25_SBL-detail-1.jpg"> | <img src="web-images/DY25_SBL-sample-1.jpg">
+DY25/SC | <img src="web-images/DY25_SC-front-1.jpg"> | <img src="web-images/DY25_SC-back-1.jpg"> | <img src="web-images/DY25_SC-open-1.jpg"> | <img src="web-images/DY25_SC-detail-1.jpg"> | <img src="web-images/DY25_SC-sample-1.jpg">
 AFRGTC25 | <img src="web-images/AFRGTC25-front-1.jpg"> | <img src="web-images/AFRGTC25-back-1.jpg"> | <img src="web-images/AFRGTC25-open-1.jpg"> | <img src="web-images/AFRGTC25-detail-1.jpg"> | <img src="web-images/AFRGTC25-sample-1.jpg">
 ALBWLC25 | <img src="web-images/ALBWLC25-front-1.jpg"> | <img src="web-images/ALBWLC25-back-1.jpg"> | <img src="web-images/ALBWLC25-open-1.jpg"> | <img src="web-images/ALBWLC25-detail-1.jpg"> | <img src="web-images/ALBWLC25-sample-1.jpg">
 BULWLC25 | <img src="web-images/BULWLC25-front-1.jpg"> | <img src="web-images/BULWLC25-back-1.jpg"> | <img src="web-images/BULWLC25-open-1.jpg"> | <img src="web-images/BULWLC25-detail-1.jpg"> | <img src="web-images/BULWLC25-sample-1.jpg">
