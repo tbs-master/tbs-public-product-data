@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Wed Oct 02 2024 14:42:48 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Wed Oct 02 2024 14:51:30 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -79,6 +79,7 @@ FRAMT2 | <img src="web-images/FRAMT2-front-1.jpg"> | <img src="web-images/FRAMT2
 DEUB2/ABK | <img src="web-images/DEUB2_ABK-front-1.jpg"> | <img src="web-images/DEUB2_ABK-back-1.jpg"> | <img src="web-images/DEUB2_ABK-open-1.jpg"> | <img src="web-images/DEUB2_ABK-detail-1.jpg"> | <img src="web-images/DEUB2_ABK-sample-1.jpg">
 DEUJN | <img src="web-images/DEUJN-front-1.jpg"> | <img src="web-images/DEUJN-back-1.jpg"> | <img src="web-images/DEUJN-open-1.jpg"> | <img src="web-images/DEUJN-detail-1.jpg"> | <img src="web-images/DEUJN-sample-1.jpg">
 ELLB/ABK | <img src="web-images/ELLB_ABK-front-1.jpg"> | <img src="web-images/ELLB_ABK-back-1.jpg"> | <img src="web-images/ELLB_ABK-open-1.jpg"> | <img src="web-images/ELLB_ABK-detail-1.jpg"> | <img src="web-images/ELLB_ABK-sample-1.jpg">
+ELLJN2 | <img src="web-images/ELLJN2-front-1.jpg"> | <img src="web-images/ELLJN2-back-1.jpg"> | <img src="web-images/ELLJN2-open-1.jpg"> | <img src="web-images/ELLJN2-detail-1.jpg"> | <img src="web-images/ELLJN2-sample-1.jpg">
 HBOHEBB/ABK | <img src="web-images/HBOHEBB_ABK-front-1.jpg"> | <img src="web-images/HBOHEBB_ABK-back-1.jpg"> | <img src="web-images/HBOHEBB_ABK-open-1.jpg"> | <img src="web-images/HBOHEBB_ABK-detail-1.jpg"> | <img src="web-images/HBOHEBB_ABK-sample-1.jpg">
 HEBNT/ABK | <img src="web-images/HEBNT_ABK-front-1.jpg"> | <img src="web-images/HEBNT_ABK-back-1.jpg"> | <img src="web-images/HEBNT_ABK-open-1.jpg"> | <img src="web-images/HEBNT_ABK-detail-1.jpg"> | <img src="web-images/HEBNT_ABK-sample-1.jpg">
 HEBRG | <img src="web-images/HEBRG-front-1.jpg"> | <img src="web-images/HEBRG-back-1.jpg"> | <img src="web-images/HEBRG-open-1.jpg"> | <img src="web-images/HEBRG-detail-1.jpg"> | <img src="web-images/HEBRG-sample-1.jpg">
@@ -249,10 +250,6 @@ CFN4 | <img src="web-images/CFN4-front-1.jpg"> | <img src="web-images/CFN4-back-
 CFN5 | <img src="web-images/CFN5-front-1.jpg"> | <img src="web-images/CFN5-back-1.jpg"> | <img src="web-images/CFN5-open-1.jpg"> | <img src="web-images/CFN5-detail-1.jpg"> | <img src="web-images/CFN5-sample-1.jpg">
 CFN6 | <img src="web-images/CFN6-front-1.jpg"> | <img src="web-images/CFN6-back-1.jpg"> | <img src="web-images/CFN6-open-1.jpg"> | <img src="web-images/CFN6-detail-1.jpg"> | <img src="web-images/CFN6-sample-1.jpg">
 CFNSET | <img src="web-images/CFNSET-front-1.jpg"> | <img src="web-images/CFNSET-back-1.jpg"> | <img src="web-images/CFNSET-open-1.jpg"> | <img src="web-images/CFNSET-detail-1.jpg"> | <img src="web-images/CFNSET-sample-1.jpg">
-CFL2 | <img src="web-images/CFL2-front-1.jpg"> | <img src="web-images/CFL2-back-1.jpg"> | <img src="web-images/CFL2-open-1.jpg"> | <img src="web-images/CFL2-detail-1.jpg"> | <img src="web-images/CFL2-sample-1.jpg">
-CFL3 | <img src="web-images/CFL3-front-1.jpg"> | <img src="web-images/CFL3-back-1.jpg"> | <img src="web-images/CFL3-open-1.jpg"> | <img src="web-images/CFL3-detail-1.jpg"> | <img src="web-images/CFL3-sample-1.jpg">
-CFK1 | <img src="web-images/CFK1-front-1.jpg"> | <img src="web-images/CFK1-back-1.jpg"> | <img src="web-images/CFK1-open-1.jpg"> | <img src="web-images/CFK1-detail-1.jpg"> | <img src="web-images/CFK1-sample-1.jpg">
-CFK2 | <img src="web-images/CFK2-front-1.jpg"> | <img src="web-images/CFK2-back-1.jpg"> | <img src="web-images/CFK2-open-1.jpg"> | <img src="web-images/CFK2-detail-1.jpg"> | <img src="web-images/CFK2-sample-1.jpg">
 CFWSET | <img src="web-images/CFWSET-front-1.jpg"> | <img src="web-images/CFWSET-back-1.jpg"> | <img src="web-images/CFWSET-open-1.jpg"> | <img src="web-images/CFWSET-detail-1.jpg"> | <img src="web-images/CFWSET-sample-1.jpg">
 WSP01 | <img src="web-images/WSP01-front-1.jpg"> | <img src="web-images/WSP01-back-1.jpg"> | <img src="web-images/WSP01-open-1.jpg"> | <img src="web-images/WSP01-detail-1.jpg"> | <img src="web-images/WSP01-sample-1.jpg">
 WSP02 | <img src="web-images/WSP02-front-1.jpg"> | <img src="web-images/WSP02-back-1.jpg"> | <img src="web-images/WSP02-open-1.jpg"> | <img src="web-images/WSP02-detail-1.jpg"> | <img src="web-images/WSP02-sample-1.jpg">
