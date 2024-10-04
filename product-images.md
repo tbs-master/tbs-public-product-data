@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Fri Oct 04 2024 10:29:41 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Oct 04 2024 10:34:39 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -29,9 +29,6 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 7/SBG | <img src="product-images/7_SBG-front-1.jpg"> | <img src="product-images/7_SBG-back-1.jpg"> | <img src="product-images/7_SBG-open-1.jpg"> | <img src="product-images/7_SBG-detail-1.jpg"> | <img src="product-images/7_SBG-sample-1.jpg">
 7/SCF | <img src="product-images/7_SCF-front-1.jpg"> | <img src="product-images/7_SCF-back-1.jpg"> | <img src="product-images/7_SCF-open-1.jpg"> | <img src="product-images/7_SCF-detail-1.jpg"> | <img src="product-images/7_SCF-sample-1.jpg">
 7/SGY | <img src="product-images/7_SGY-front-1.jpg"> | <img src="product-images/7_SGY-back-1.jpg"> | <img src="product-images/7_SGY-open-1.jpg"> | <img src="product-images/7_SGY-detail-1.jpg"> | <img src="product-images/7_SGY-sample-1.jpg">
-60/ABK | <img src="product-images/60_ABK-front-1.jpg"> | <img src="product-images/60_ABK-back-1.jpg"> | <img src="product-images/60_ABK-open-1.jpg"> | <img src="product-images/60_ABK-detail-1.jpg"> | <img src="product-images/60_ABK-sample-1.jpg">
-60/ABL | <img src="product-images/60_ABL-front-1.jpg"> | <img src="product-images/60_ABL-back-1.jpg"> | <img src="product-images/60_ABL-open-1.jpg"> | <img src="product-images/60_ABL-detail-1.jpg"> | <img src="product-images/60_ABL-sample-1.jpg">
-60/ARD | <img src="product-images/60_ARD-front-1.jpg"> | <img src="product-images/60_ARD-back-1.jpg"> | <img src="product-images/60_ARD-open-1.jpg"> | <img src="product-images/60_ARD-detail-1.jpg"> | <img src="product-images/60_ARD-sample-1.jpg">
 4/SGN | <img src="product-images/4_SGN-front-1.jpg"> | <img src="product-images/4_SGN-back-1.jpg"> | <img src="product-images/4_SGN-open-1.jpg"> | <img src="product-images/4_SGN-detail-1.jpg"> | <img src="product-images/4_SGN-sample-1.jpg">
 4/FBK | <img src="product-images/4_FBK-front-1.jpg"> | <img src="product-images/4_FBK-back-1.jpg"> | <img src="product-images/4_FBK-open-1.jpg"> | <img src="product-images/4_FBK-detail-1.jpg"> | <img src="product-images/4_FBK-sample-1.jpg">
 4/ABK | <img src="product-images/4_ABK-front-1.jpg"> | <img src="product-images/4_ABK-back-1.jpg"> | <img src="product-images/4_ABK-open-1.jpg"> | <img src="product-images/4_ABK-detail-1.jpg"> | <img src="product-images/4_ABK-sample-1.jpg">
