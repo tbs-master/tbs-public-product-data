@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Mon Nov 11 2024 12:26:07 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Mon Nov 18 2024 15:38:46 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -16,6 +16,7 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 25/ABK | <img src="product-images/25_ABK-front-1.jpg"> | <img src="product-images/25_ABK-back-1.jpg"> | <img src="product-images/25_ABK-open-1.jpg"> | <img src="product-images/25_ABK-detail-1.jpg"> | <img src="product-images/25_ABK-sample-1.jpg">
 25/ABL | <img src="product-images/25_ABL-front-1.jpg"> | <img src="product-images/25_ABL-back-1.jpg"> | <img src="product-images/25_ABL-open-1.jpg"> | <img src="product-images/25_ABL-detail-1.jpg"> | <img src="product-images/25_ABL-sample-1.jpg">
 25/ARD | <img src="product-images/25_ARD-front-1.jpg"> | <img src="product-images/25_ARD-back-1.jpg"> | <img src="product-images/25_ARD-open-1.jpg"> | <img src="product-images/25_ARD-detail-1.jpg"> | <img src="product-images/25_ARD-sample-1.jpg">
+25/SBG | <img src="product-images/25_SBG-front-1.jpg"> | <img src="product-images/25_SBG-back-1.jpg"> | <img src="product-images/25_SBG-open-1.jpg"> | <img src="product-images/25_SBG-detail-1.jpg"> | <img src="product-images/25_SBG-sample-1.jpg">
 25/FBL | <img src="product-images/25_FBL-front-1.jpg"> | <img src="product-images/25_FBL-back-1.jpg"> | <img src="product-images/25_FBL-open-1.jpg"> | <img src="product-images/25_FBL-detail-1.jpg"> | <img src="product-images/25_FBL-sample-1.jpg">
 25MP/ABK | <img src="product-images/25MP_ABK-front-1.jpg"> | <img src="product-images/25MP_ABK-back-1.jpg"> | <img src="product-images/25MP_ABK-open-1.jpg"> | <img src="product-images/25MP_ABK-detail-1.jpg"> | <img src="product-images/25MP_ABK-sample-1.jpg">
 25/UBK | <img src="product-images/25_UBK-front-1.jpg"> | <img src="product-images/25_UBK-back-1.jpg"> | <img src="product-images/25_UBK-open-1.jpg"> | <img src="product-images/25_UBK-detail-1.jpg"> | <img src="product-images/25_UBK-sample-1.jpg">
