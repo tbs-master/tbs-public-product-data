@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Thu Nov 21 2024 18:47:56 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Nov 22 2024 14:49:11 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -259,6 +259,7 @@ WSP19 | <img src="web-images/WSP19-front-1.jpg"> | <img src="web-images/WSP19-ba
 WSP20 | <img src="web-images/WSP20-front-1.jpg"> | <img src="web-images/WSP20-back-1.jpg"> | <img src="web-images/WSP20-open-1.jpg"> | <img src="web-images/WSP20-detail-1.jpg"> | <img src="web-images/WSP20-sample-1.jpg">
 WSP21 | <img src="web-images/WSP21-front-1.jpg"> | <img src="web-images/WSP21-back-1.jpg"> | <img src="web-images/WSP21-open-1.jpg"> | <img src="web-images/WSP21-detail-1.jpg"> | <img src="web-images/WSP21-sample-1.jpg">
 WSP22 | <img src="web-images/WSP22-front-1.jpg"> | <img src="web-images/WSP22-back-1.jpg"> | <img src="web-images/WSP22-open-1.jpg"> | <img src="web-images/WSP22-detail-1.jpg"> | <img src="web-images/WSP22-sample-1.jpg">
+WSP27 | <img src="web-images/WSP27-front-1.jpg"> | <img src="web-images/WSP27-back-1.jpg"> | <img src="web-images/WSP27-open-1.jpg"> | <img src="web-images/WSP27-detail-1.jpg"> | <img src="web-images/WSP27-sample-1.jpg">
 WSP31 | <img src="web-images/WSP31-front-1.jpg"> | <img src="web-images/WSP31-back-1.jpg"> | <img src="web-images/WSP31-open-1.jpg"> | <img src="web-images/WSP31-detail-1.jpg"> | <img src="web-images/WSP31-sample-1.jpg">
 WSP33 | <img src="web-images/WSP33-front-1.jpg"> | <img src="web-images/WSP33-back-1.jpg"> | <img src="web-images/WSP33-open-1.jpg"> | <img src="web-images/WSP33-detail-1.jpg"> | <img src="web-images/WSP33-sample-1.jpg">
 WSP34 | <img src="web-images/WSP34-front-1.jpg"> | <img src="web-images/WSP34-back-1.jpg"> | <img src="web-images/WSP34-open-1.jpg"> | <img src="web-images/WSP34-detail-1.jpg"> | <img src="web-images/WSP34-sample-1.jpg">
@@ -271,8 +272,11 @@ WSP47 | <img src="web-images/WSP47-front-1.jpg"> | <img src="web-images/WSP47-ba
 WSP50 | <img src="web-images/WSP50-front-1.jpg"> | <img src="web-images/WSP50-back-1.jpg"> | <img src="web-images/WSP50-open-1.jpg"> | <img src="web-images/WSP50-detail-1.jpg"> | <img src="web-images/WSP50-sample-1.jpg">
 WSP52 | <img src="web-images/WSP52-front-1.jpg"> | <img src="web-images/WSP52-back-1.jpg"> | <img src="web-images/WSP52-open-1.jpg"> | <img src="web-images/WSP52-detail-1.jpg"> | <img src="web-images/WSP52-sample-1.jpg">
 WSP53 | <img src="web-images/WSP53-front-1.jpg"> | <img src="web-images/WSP53-back-1.jpg"> | <img src="web-images/WSP53-open-1.jpg"> | <img src="web-images/WSP53-detail-1.jpg"> | <img src="web-images/WSP53-sample-1.jpg">
+WSP54 | <img src="web-images/WSP54-front-1.jpg"> | <img src="web-images/WSP54-back-1.jpg"> | <img src="web-images/WSP54-open-1.jpg"> | <img src="web-images/WSP54-detail-1.jpg"> | <img src="web-images/WSP54-sample-1.jpg">
 WSP55 | <img src="web-images/WSP55-front-1.jpg"> | <img src="web-images/WSP55-back-1.jpg"> | <img src="web-images/WSP55-open-1.jpg"> | <img src="web-images/WSP55-detail-1.jpg"> | <img src="web-images/WSP55-sample-1.jpg">
+WSP58 | <img src="web-images/WSP58-front-1.jpg"> | <img src="web-images/WSP58-back-1.jpg"> | <img src="web-images/WSP58-open-1.jpg"> | <img src="web-images/WSP58-detail-1.jpg"> | <img src="web-images/WSP58-sample-1.jpg">
 WSP59 | <img src="web-images/WSP59-front-1.jpg"> | <img src="web-images/WSP59-back-1.jpg"> | <img src="web-images/WSP59-open-1.jpg"> | <img src="web-images/WSP59-detail-1.jpg"> | <img src="web-images/WSP59-sample-1.jpg">
+WSP60 | <img src="web-images/WSP60-front-1.jpg"> | <img src="web-images/WSP60-back-1.jpg"> | <img src="web-images/WSP60-open-1.jpg"> | <img src="web-images/WSP60-detail-1.jpg"> | <img src="web-images/WSP60-sample-1.jpg">
 P01 | <img src="web-images/P01-front-1.jpg"> | <img src="web-images/P01-back-1.jpg"> | <img src="web-images/P01-open-1.jpg"> | <img src="web-images/P01-detail-1.jpg"> | <img src="web-images/P01-sample-1.jpg">
 P10COM | <img src="web-images/P10COM-front-1.jpg"> | <img src="web-images/P10COM-back-1.jpg"> | <img src="web-images/P10COM-open-1.jpg"> | <img src="web-images/P10COM-detail-1.jpg"> | <img src="web-images/P10COM-sample-1.jpg">
 LSP100 | <img src="web-images/LSP100-front-1.jpg"> | <img src="web-images/LSP100-back-1.jpg"> | <img src="web-images/LSP100-open-1.jpg"> | <img src="web-images/LSP100-detail-1.jpg"> | <img src="web-images/LSP100-sample-1.jpg">
