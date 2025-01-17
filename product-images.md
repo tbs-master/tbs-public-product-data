@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Fri Jan 03 2025 17:21:55 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Jan 17 2025 18:31:38 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -8,7 +8,6 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 31/ABK | <img src="product-images/31_ABK-front-1.jpg"> | <img src="product-images/31_ABK-back-1.jpg"> | <img src="product-images/31_ABK-open-1.jpg"> | <img src="product-images/31_ABK-detail-1.jpg"> | <img src="product-images/31_ABK-sample-1.jpg">
 31/ABL | <img src="product-images/31_ABL-front-1.jpg"> | <img src="product-images/31_ABL-back-1.jpg"> | <img src="product-images/31_ABL-open-1.jpg"> | <img src="product-images/31_ABL-detail-1.jpg"> | <img src="product-images/31_ABL-sample-1.jpg">
 31/ARD | <img src="product-images/31_ARD-front-1.jpg"> | <img src="product-images/31_ARD-back-1.jpg"> | <img src="product-images/31_ARD-open-1.jpg"> | <img src="product-images/31_ARD-detail-1.jpg"> | <img src="product-images/31_ARD-sample-1.jpg">
-31/ABKP | <img src="product-images/31_ABKP-front-1.jpg"> | <img src="product-images/31_ABKP-back-1.jpg"> | <img src="product-images/31_ABKP-open-1.jpg"> | <img src="product-images/31_ABKP-detail-1.jpg"> | <img src="product-images/31_ABKP-sample-1.jpg">
 31/AWHP | <img src="product-images/31_AWHP-front-1.jpg"> | <img src="product-images/31_AWHP-back-1.jpg"> | <img src="product-images/31_AWHP-open-1.jpg"> | <img src="product-images/31_AWHP-detail-1.jpg"> | <img src="product-images/31_AWHP-sample-1.jpg">
 31/AC | <img src="product-images/31_AC-front-1.jpg"> | <img src="product-images/31_AC-back-1.jpg"> | <img src="product-images/31_AC-open-1.jpg"> | <img src="product-images/31_AC-detail-1.jpg"> | <img src="product-images/31_AC-sample-1.jpg">
 31/UTBK | <img src="product-images/31_UTBK-front-1.jpg"> | <img src="product-images/31_UTBK-back-1.jpg"> | <img src="product-images/31_UTBK-open-1.jpg"> | <img src="product-images/31_UTBK-detail-1.jpg"> | <img src="product-images/31_UTBK-sample-1.jpg">
@@ -169,9 +168,6 @@ CC2 | <img src="product-images/CC2-front-1.jpg"> | <img src="product-images/CC2-
 CC3 | <img src="product-images/CC3-front-1.jpg"> | <img src="product-images/CC3-back-1.jpg"> | <img src="product-images/CC3-open-1.jpg"> | <img src="product-images/CC3-detail-1.jpg"> | <img src="product-images/CC3-sample-1.jpg">
 CC4 | <img src="product-images/CC4-front-1.jpg"> | <img src="product-images/CC4-back-1.jpg"> | <img src="product-images/CC4-open-1.jpg"> | <img src="product-images/CC4-detail-1.jpg"> | <img src="product-images/CC4-sample-1.jpg">
 CCSET | <img src="product-images/CCSET-front-1.jpg"> | <img src="product-images/CCSET-back-1.jpg"> | <img src="product-images/CCSET-open-1.jpg"> | <img src="product-images/CCSET-detail-1.jpg"> | <img src="product-images/CCSET-sample-1.jpg">
-H2 | <img src="product-images/H2-front-1.jpg"> | <img src="product-images/H2-back-1.jpg"> | <img src="product-images/H2-open-1.jpg"> | <img src="product-images/H2-detail-1.jpg"> | <img src="product-images/H2-sample-1.jpg">
-H3 | <img src="product-images/H3-front-1.jpg"> | <img src="product-images/H3-back-1.jpg"> | <img src="product-images/H3-open-1.jpg"> | <img src="product-images/H3-detail-1.jpg"> | <img src="product-images/H3-sample-1.jpg">
-H4 | <img src="product-images/H4-front-1.jpg"> | <img src="product-images/H4-back-1.jpg"> | <img src="product-images/H4-open-1.jpg"> | <img src="product-images/H4-detail-1.jpg"> | <img src="product-images/H4-sample-1.jpg">
 PZA1 | <img src="product-images/PZA1-front-1.jpg"> | <img src="product-images/PZA1-back-1.jpg"> | <img src="product-images/PZA1-open-1.jpg"> | <img src="product-images/PZA1-detail-1.jpg"> | <img src="product-images/PZA1-sample-1.jpg">
 PZA2 | <img src="product-images/PZA2-front-1.jpg"> | <img src="product-images/PZA2-back-1.jpg"> | <img src="product-images/PZA2-open-1.jpg"> | <img src="product-images/PZA2-detail-1.jpg"> | <img src="product-images/PZA2-sample-1.jpg">
 PZA3 | <img src="product-images/PZA3-front-1.jpg"> | <img src="product-images/PZA3-back-1.jpg"> | <img src="product-images/PZA3-open-1.jpg"> | <img src="product-images/PZA3-detail-1.jpg"> | <img src="product-images/PZA3-sample-1.jpg">
