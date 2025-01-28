@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Thu Jan 23 2025 09:51:51 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Tue Jan 28 2025 12:09:26 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -18,6 +18,7 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 25/SBG | <img src="product-images/25_SBG-front-1.jpg"> | <img src="product-images/25_SBG-back-1.jpg"> | <img src="product-images/25_SBG-open-1.jpg"> | <img src="product-images/25_SBG-detail-1.jpg"> | <img src="product-images/25_SBG-sample-1.jpg">
 25/FBL | <img src="product-images/25_FBL-front-1.jpg"> | <img src="product-images/25_FBL-back-1.jpg"> | <img src="product-images/25_FBL-open-1.jpg"> | <img src="product-images/25_FBL-detail-1.jpg"> | <img src="product-images/25_FBL-sample-1.jpg">
 25MP/ABK | <img src="product-images/25MP_ABK-front-1.jpg"> | <img src="product-images/25MP_ABK-back-1.jpg"> | <img src="product-images/25MP_ABK-open-1.jpg"> | <img src="product-images/25MP_ABK-detail-1.jpg"> | <img src="product-images/25MP_ABK-sample-1.jpg">
+25/ETTBR | <img src="product-images/25_ETTBR-front-1.jpg"> | <img src="product-images/25_ETTBR-back-1.jpg"> | <img src="product-images/25_ETTBR-open-1.jpg"> | <img src="product-images/25_ETTBR-detail-1.jpg"> | <img src="product-images/25_ETTBR-sample-1.jpg">
 25/UBK | <img src="product-images/25_UBK-front-1.jpg"> | <img src="product-images/25_UBK-back-1.jpg"> | <img src="product-images/25_UBK-open-1.jpg"> | <img src="product-images/25_UBK-detail-1.jpg"> | <img src="product-images/25_UBK-sample-1.jpg">
 25MP/UBK | <img src="product-images/25MP_UBK-front-1.jpg"> | <img src="product-images/25MP_UBK-back-1.jpg"> | <img src="product-images/25MP_UBK-open-1.jpg"> | <img src="product-images/25MP_UBK-detail-1.jpg"> | <img src="product-images/25MP_UBK-sample-1.jpg">
 35LP/ABK | <img src="product-images/35LP_ABK-front-1.jpg"> | <img src="product-images/35LP_ABK-back-1.jpg"> | <img src="product-images/35LP_ABK-open-1.jpg"> | <img src="product-images/35LP_ABK-detail-1.jpg"> | <img src="product-images/35LP_ABK-sample-1.jpg">
@@ -140,7 +141,6 @@ RUSWLC25 | <img src="product-images/RUSWLC25-front-1.jpg"> | <img src="product-i
 SNAGTC25 | <img src="product-images/SNAGTC25-front-1.jpg"> | <img src="product-images/SNAGTC25-back-1.jpg"> | <img src="product-images/SNAGTC25-open-1.jpg"> | <img src="product-images/SNAGTC25-detail-1.jpg"> | <img src="product-images/SNAGTC25-sample-1.jpg">
 SPAWLC25 | <img src="product-images/SPAWLC25-front-1.jpg"> | <img src="product-images/SPAWLC25-back-1.jpg"> | <img src="product-images/SPAWLC25-open-1.jpg"> | <img src="product-images/SPAWLC25-detail-1.jpg"> | <img src="product-images/SPAWLC25-sample-1.jpg">
 SPAGTC25 | <img src="product-images/SPAGTC25-front-1.jpg"> | <img src="product-images/SPAGTC25-back-1.jpg"> | <img src="product-images/SPAGTC25-open-1.jpg"> | <img src="product-images/SPAGTC25-detail-1.jpg"> | <img src="product-images/SPAGTC25-sample-1.jpg">
-UKRWLC25 | <img src="product-images/UKRWLC25-front-1.jpg"> | <img src="product-images/UKRWLC25-back-1.jpg"> | <img src="product-images/UKRWLC25-open-1.jpg"> | <img src="product-images/UKRWLC25-detail-1.jpg"> | <img src="product-images/UKRWLC25-sample-1.jpg">
 CYMWLC25 | <img src="product-images/CYMWLC25-front-1.jpg"> | <img src="product-images/CYMWLC25-back-1.jpg"> | <img src="product-images/CYMWLC25-open-1.jpg"> | <img src="product-images/CYMWLC25-detail-1.jpg"> | <img src="product-images/CYMWLC25-sample-1.jpg">
 XHOGTC25 | <img src="product-images/XHOGTC25-front-1.jpg"> | <img src="product-images/XHOGTC25-back-1.jpg"> | <img src="product-images/XHOGTC25-open-1.jpg"> | <img src="product-images/XHOGTC25-detail-1.jpg"> | <img src="product-images/XHOGTC25-sample-1.jpg">
 CA01 | <img src="product-images/CA01-front-1.jpg"> | <img src="product-images/CA01-back-1.jpg"> | <img src="product-images/CA01-open-1.jpg"> | <img src="product-images/CA01-detail-1.jpg"> | <img src="product-images/CA01-sample-1.jpg">
