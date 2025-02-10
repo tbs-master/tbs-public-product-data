@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Thu Jan 30 2025 16:50:33 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Mon Feb 10 2025 18:36:27 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -129,19 +129,12 @@ DY25/SC | <img src="web-images/DY25_SC-front-1.jpg"> | <img src="web-images/DY25
 AFRGTC25 | <img src="web-images/AFRGTC25-front-1.jpg"> | <img src="web-images/AFRGTC25-back-1.jpg"> | <img src="web-images/AFRGTC25-open-1.jpg"> | <img src="web-images/AFRGTC25-detail-1.jpg"> | <img src="web-images/AFRGTC25-sample-1.jpg">
 ALBWLC25 | <img src="web-images/ALBWLC25-front-1.jpg"> | <img src="web-images/ALBWLC25-back-1.jpg"> | <img src="web-images/ALBWLC25-open-1.jpg"> | <img src="web-images/ALBWLC25-detail-1.jpg"> | <img src="web-images/ALBWLC25-sample-1.jpg">
 BULWLC25 | <img src="web-images/BULWLC25-front-1.jpg"> | <img src="web-images/BULWLC25-back-1.jpg"> | <img src="web-images/BULWLC25-open-1.jpg"> | <img src="web-images/BULWLC25-detail-1.jpg"> | <img src="web-images/BULWLC25-sample-1.jpg">
-CATWLC25 | <img src="web-images/CATWLC25-front-1.jpg"> | <img src="web-images/CATWLC25-back-1.jpg"> | <img src="web-images/CATWLC25-open-1.jpg"> | <img src="web-images/CATWLC25-detail-1.jpg"> | <img src="web-images/CATWLC25-sample-1.jpg">
 FRAWLC25 | <img src="web-images/FRAWLC25-front-1.jpg"> | <img src="web-images/FRAWLC25-back-1.jpg"> | <img src="web-images/FRAWLC25-open-1.jpg"> | <img src="web-images/FRAWLC25-detail-1.jpg"> | <img src="web-images/FRAWLC25-sample-1.jpg">
 FRAGTC25 | <img src="web-images/FRAGTC25-front-1.jpg"> | <img src="web-images/FRAGTC25-back-1.jpg"> | <img src="web-images/FRAGTC25-open-1.jpg"> | <img src="web-images/FRAGTC25-detail-1.jpg"> | <img src="web-images/FRAGTC25-sample-1.jpg">
-HAUGTC25 | <img src="web-images/HAUGTC25-front-1.jpg"> | <img src="web-images/HAUGTC25-back-1.jpg"> | <img src="web-images/HAUGTC25-open-1.jpg"> | <img src="web-images/HAUGTC25-detail-1.jpg"> | <img src="web-images/HAUGTC25-sample-1.jpg">
-HUNWLC25 | <img src="web-images/HUNWLC25-front-1.jpg"> | <img src="web-images/HUNWLC25-back-1.jpg"> | <img src="web-images/HUNWLC25-open-1.jpg"> | <img src="web-images/HUNWLC25-detail-1.jpg"> | <img src="web-images/HUNWLC25-sample-1.jpg">
 NDEGTC25 | <img src="web-images/NDEGTC25-front-1.jpg"> | <img src="web-images/NDEGTC25-back-1.jpg"> | <img src="web-images/NDEGTC25-open-1.jpg"> | <img src="web-images/NDEGTC25-detail-1.jpg"> | <img src="web-images/NDEGTC25-sample-1.jpg">
 PORGTC25 | <img src="web-images/PORGTC25-front-1.jpg"> | <img src="web-images/PORGTC25-back-1.jpg"> | <img src="web-images/PORGTC25-open-1.jpg"> | <img src="web-images/PORGTC25-detail-1.jpg"> | <img src="web-images/PORGTC25-sample-1.jpg">
 RONWLC25 | <img src="web-images/RONWLC25-front-1.jpg"> | <img src="web-images/RONWLC25-back-1.jpg"> | <img src="web-images/RONWLC25-open-1.jpg"> | <img src="web-images/RONWLC25-detail-1.jpg"> | <img src="web-images/RONWLC25-sample-1.jpg">
-RUSWLC25 | <img src="web-images/RUSWLC25-front-1.jpg"> | <img src="web-images/RUSWLC25-back-1.jpg"> | <img src="web-images/RUSWLC25-open-1.jpg"> | <img src="web-images/RUSWLC25-detail-1.jpg"> | <img src="web-images/RUSWLC25-sample-1.jpg">
 SNAGTC25 | <img src="web-images/SNAGTC25-front-1.jpg"> | <img src="web-images/SNAGTC25-back-1.jpg"> | <img src="web-images/SNAGTC25-open-1.jpg"> | <img src="web-images/SNAGTC25-detail-1.jpg"> | <img src="web-images/SNAGTC25-sample-1.jpg">
-SPAWLC25 | <img src="web-images/SPAWLC25-front-1.jpg"> | <img src="web-images/SPAWLC25-back-1.jpg"> | <img src="web-images/SPAWLC25-open-1.jpg"> | <img src="web-images/SPAWLC25-detail-1.jpg"> | <img src="web-images/SPAWLC25-sample-1.jpg">
-SPAGTC25 | <img src="web-images/SPAGTC25-front-1.jpg"> | <img src="web-images/SPAGTC25-back-1.jpg"> | <img src="web-images/SPAGTC25-open-1.jpg"> | <img src="web-images/SPAGTC25-detail-1.jpg"> | <img src="web-images/SPAGTC25-sample-1.jpg">
-CYMWLC25 | <img src="web-images/CYMWLC25-front-1.jpg"> | <img src="web-images/CYMWLC25-back-1.jpg"> | <img src="web-images/CYMWLC25-open-1.jpg"> | <img src="web-images/CYMWLC25-detail-1.jpg"> | <img src="web-images/CYMWLC25-sample-1.jpg">
 XHOGTC25 | <img src="web-images/XHOGTC25-front-1.jpg"> | <img src="web-images/XHOGTC25-back-1.jpg"> | <img src="web-images/XHOGTC25-open-1.jpg"> | <img src="web-images/XHOGTC25-detail-1.jpg"> | <img src="web-images/XHOGTC25-sample-1.jpg">
 CA01 | <img src="web-images/CA01-front-1.jpg"> | <img src="web-images/CA01-back-1.jpg"> | <img src="web-images/CA01-open-1.jpg"> | <img src="web-images/CA01-detail-1.jpg"> | <img src="web-images/CA01-sample-1.jpg">
 CA02 | <img src="web-images/CA02-front-1.jpg"> | <img src="web-images/CA02-back-1.jpg"> | <img src="web-images/CA02-open-1.jpg"> | <img src="web-images/CA02-detail-1.jpg"> | <img src="web-images/CA02-sample-1.jpg">

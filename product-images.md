@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Thu Jan 30 2025 16:50:33 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Mon Feb 10 2025 18:36:26 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -129,19 +129,12 @@ DY25/SC | <img src="product-images/DY25_SC-front-1.jpg"> | <img src="product-ima
 AFRGTC25 | <img src="product-images/AFRGTC25-front-1.jpg"> | <img src="product-images/AFRGTC25-back-1.jpg"> | <img src="product-images/AFRGTC25-open-1.jpg"> | <img src="product-images/AFRGTC25-detail-1.jpg"> | <img src="product-images/AFRGTC25-sample-1.jpg">
 ALBWLC25 | <img src="product-images/ALBWLC25-front-1.jpg"> | <img src="product-images/ALBWLC25-back-1.jpg"> | <img src="product-images/ALBWLC25-open-1.jpg"> | <img src="product-images/ALBWLC25-detail-1.jpg"> | <img src="product-images/ALBWLC25-sample-1.jpg">
 BULWLC25 | <img src="product-images/BULWLC25-front-1.jpg"> | <img src="product-images/BULWLC25-back-1.jpg"> | <img src="product-images/BULWLC25-open-1.jpg"> | <img src="product-images/BULWLC25-detail-1.jpg"> | <img src="product-images/BULWLC25-sample-1.jpg">
-CATWLC25 | <img src="product-images/CATWLC25-front-1.jpg"> | <img src="product-images/CATWLC25-back-1.jpg"> | <img src="product-images/CATWLC25-open-1.jpg"> | <img src="product-images/CATWLC25-detail-1.jpg"> | <img src="product-images/CATWLC25-sample-1.jpg">
 FRAWLC25 | <img src="product-images/FRAWLC25-front-1.jpg"> | <img src="product-images/FRAWLC25-back-1.jpg"> | <img src="product-images/FRAWLC25-open-1.jpg"> | <img src="product-images/FRAWLC25-detail-1.jpg"> | <img src="product-images/FRAWLC25-sample-1.jpg">
 FRAGTC25 | <img src="product-images/FRAGTC25-front-1.jpg"> | <img src="product-images/FRAGTC25-back-1.jpg"> | <img src="product-images/FRAGTC25-open-1.jpg"> | <img src="product-images/FRAGTC25-detail-1.jpg"> | <img src="product-images/FRAGTC25-sample-1.jpg">
-HAUGTC25 | <img src="product-images/HAUGTC25-front-1.jpg"> | <img src="product-images/HAUGTC25-back-1.jpg"> | <img src="product-images/HAUGTC25-open-1.jpg"> | <img src="product-images/HAUGTC25-detail-1.jpg"> | <img src="product-images/HAUGTC25-sample-1.jpg">
-HUNWLC25 | <img src="product-images/HUNWLC25-front-1.jpg"> | <img src="product-images/HUNWLC25-back-1.jpg"> | <img src="product-images/HUNWLC25-open-1.jpg"> | <img src="product-images/HUNWLC25-detail-1.jpg"> | <img src="product-images/HUNWLC25-sample-1.jpg">
 NDEGTC25 | <img src="product-images/NDEGTC25-front-1.jpg"> | <img src="product-images/NDEGTC25-back-1.jpg"> | <img src="product-images/NDEGTC25-open-1.jpg"> | <img src="product-images/NDEGTC25-detail-1.jpg"> | <img src="product-images/NDEGTC25-sample-1.jpg">
 PORGTC25 | <img src="product-images/PORGTC25-front-1.jpg"> | <img src="product-images/PORGTC25-back-1.jpg"> | <img src="product-images/PORGTC25-open-1.jpg"> | <img src="product-images/PORGTC25-detail-1.jpg"> | <img src="product-images/PORGTC25-sample-1.jpg">
 RONWLC25 | <img src="product-images/RONWLC25-front-1.jpg"> | <img src="product-images/RONWLC25-back-1.jpg"> | <img src="product-images/RONWLC25-open-1.jpg"> | <img src="product-images/RONWLC25-detail-1.jpg"> | <img src="product-images/RONWLC25-sample-1.jpg">
-RUSWLC25 | <img src="product-images/RUSWLC25-front-1.jpg"> | <img src="product-images/RUSWLC25-back-1.jpg"> | <img src="product-images/RUSWLC25-open-1.jpg"> | <img src="product-images/RUSWLC25-detail-1.jpg"> | <img src="product-images/RUSWLC25-sample-1.jpg">
 SNAGTC25 | <img src="product-images/SNAGTC25-front-1.jpg"> | <img src="product-images/SNAGTC25-back-1.jpg"> | <img src="product-images/SNAGTC25-open-1.jpg"> | <img src="product-images/SNAGTC25-detail-1.jpg"> | <img src="product-images/SNAGTC25-sample-1.jpg">
-SPAWLC25 | <img src="product-images/SPAWLC25-front-1.jpg"> | <img src="product-images/SPAWLC25-back-1.jpg"> | <img src="product-images/SPAWLC25-open-1.jpg"> | <img src="product-images/SPAWLC25-detail-1.jpg"> | <img src="product-images/SPAWLC25-sample-1.jpg">
-SPAGTC25 | <img src="product-images/SPAGTC25-front-1.jpg"> | <img src="product-images/SPAGTC25-back-1.jpg"> | <img src="product-images/SPAGTC25-open-1.jpg"> | <img src="product-images/SPAGTC25-detail-1.jpg"> | <img src="product-images/SPAGTC25-sample-1.jpg">
-CYMWLC25 | <img src="product-images/CYMWLC25-front-1.jpg"> | <img src="product-images/CYMWLC25-back-1.jpg"> | <img src="product-images/CYMWLC25-open-1.jpg"> | <img src="product-images/CYMWLC25-detail-1.jpg"> | <img src="product-images/CYMWLC25-sample-1.jpg">
 XHOGTC25 | <img src="product-images/XHOGTC25-front-1.jpg"> | <img src="product-images/XHOGTC25-back-1.jpg"> | <img src="product-images/XHOGTC25-open-1.jpg"> | <img src="product-images/XHOGTC25-detail-1.jpg"> | <img src="product-images/XHOGTC25-sample-1.jpg">
 CA01 | <img src="product-images/CA01-front-1.jpg"> | <img src="product-images/CA01-back-1.jpg"> | <img src="product-images/CA01-open-1.jpg"> | <img src="product-images/CA01-detail-1.jpg"> | <img src="product-images/CA01-sample-1.jpg">
 CA02 | <img src="product-images/CA02-front-1.jpg"> | <img src="product-images/CA02-back-1.jpg"> | <img src="product-images/CA02-open-1.jpg"> | <img src="product-images/CA02-detail-1.jpg"> | <img src="product-images/CA02-sample-1.jpg">
