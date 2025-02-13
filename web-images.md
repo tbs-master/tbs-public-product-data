@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Thu Feb 13 2025 14:21:46 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Thu Feb 13 2025 16:08:28 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -83,6 +83,7 @@ HEBRG | <img src="web-images/HEBRG-front-1.jpg"> | <img src="web-images/HEBRG-ba
 HINJN | <img src="web-images/HINJN-front-1.jpg"> | <img src="web-images/HINJN-back-1.jpg"> | <img src="web-images/HINJN-open-1.jpg"> | <img src="web-images/HINJN-detail-1.jpg"> | <img src="web-images/HINJN-sample-1.jpg">
 HUNB/SBK | <img src="web-images/HUNB_SBK-front-1.jpg"> | <img src="web-images/HUNB_SBK-back-1.jpg"> | <img src="web-images/HUNB_SBK-open-1.jpg"> | <img src="web-images/HUNB_SBK-detail-1.jpg"> | <img src="web-images/HUNB_SBK-sample-1.jpg">
 ITAB/ABK | <img src="web-images/ITAB_ABK-front-1.jpg"> | <img src="web-images/ITAB_ABK-back-1.jpg"> | <img src="web-images/ITAB_ABK-open-1.jpg"> | <img src="web-images/ITAB_ABK-detail-1.jpg"> | <img src="web-images/ITAB_ABK-sample-1.jpg">
+KLNNT/ABK | <img src="web-images/KLNNT_ABK-front-1.jpg"> | <img src="web-images/KLNNT_ABK-back-1.jpg"> | <img src="web-images/KLNNT_ABK-open-1.jpg"> | <img src="web-images/KLNNT_ABK-detail-1.jpg"> | <img src="web-images/KLNNT_ABK-sample-1.jpg">
 LITMK | <img src="web-images/LITMK-front-1.jpg"> | <img src="web-images/LITMK-back-1.jpg"> | <img src="web-images/LITMK-open-1.jpg"> | <img src="web-images/LITMK-detail-1.jpg"> | <img src="web-images/LITMK-sample-1.jpg">
 MLTB/ABK | <img src="web-images/MLTB_ABK-front-1.jpg"> | <img src="web-images/MLTB_ABK-back-1.jpg"> | <img src="web-images/MLTB_ABK-open-1.jpg"> | <img src="web-images/MLTB_ABK-detail-1.jpg"> | <img src="web-images/MLTB_ABK-sample-1.jpg">
 MLTJN | <img src="web-images/MLTJN-front-1.jpg"> | <img src="web-images/MLTJN-back-1.jpg"> | <img src="web-images/MLTJN-open-1.jpg"> | <img src="web-images/MLTJN-detail-1.jpg"> | <img src="web-images/MLTJN-sample-1.jpg">
