@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Wed Feb 26 2025 12:07:37 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Mon Mar 03 2025 11:52:58 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -310,6 +310,7 @@ MBT04 | <img src="web-images/MBT04-front-1.jpg"> | <img src="web-images/MBT04-ba
 MBT06 | <img src="web-images/MBT06-front-1.jpg"> | <img src="web-images/MBT06-back-1.jpg"> | <img src="web-images/MBT06-open-1.jpg"> | <img src="web-images/MBT06-detail-1.jpg"> | <img src="web-images/MBT06-sample-1.jpg">
 MBT09 | <img src="web-images/MBT09-front-1.jpg"> | <img src="web-images/MBT09-back-1.jpg"> | <img src="web-images/MBT09-open-1.jpg"> | <img src="web-images/MBT09-detail-1.jpg"> | <img src="web-images/MBT09-sample-1.jpg">
 MBT12 | <img src="web-images/MBT12-front-1.jpg"> | <img src="web-images/MBT12-back-1.jpg"> | <img src="web-images/MBT12-open-1.jpg"> | <img src="web-images/MBT12-detail-1.jpg"> | <img src="web-images/MBT12-sample-1.jpg">
+MBTSET | <img src="web-images/MBTSET-front-1.jpg"> | <img src="web-images/MBTSET-back-1.jpg"> | <img src="web-images/MBTSET-open-1.jpg"> | <img src="web-images/MBTSET-detail-1.jpg"> | <img src="web-images/MBTSET-sample-1.jpg">
 XXLPBT1 | <img src="web-images/XXLPBT1-front-1.jpg"> | <img src="web-images/XXLPBT1-back-1.jpg"> | <img src="web-images/XXLPBT1-open-1.jpg"> | <img src="web-images/XXLPBT1-detail-1.jpg"> | <img src="web-images/XXLPBT1-sample-1.jpg">
 XXLPBT2 | <img src="web-images/XXLPBT2-front-1.jpg"> | <img src="web-images/XXLPBT2-back-1.jpg"> | <img src="web-images/XXLPBT2-open-1.jpg"> | <img src="web-images/XXLPBT2-detail-1.jpg"> | <img src="web-images/XXLPBT2-sample-1.jpg">
 XXLPBT3 | <img src="web-images/XXLPBT3-front-1.jpg"> | <img src="web-images/XXLPBT3-back-1.jpg"> | <img src="web-images/XXLPBT3-open-1.jpg"> | <img src="web-images/XXLPBT3-detail-1.jpg"> | <img src="web-images/XXLPBT3-sample-1.jpg">
