@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Tue Mar 11 2025 18:13:53 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Wed Mar 12 2025 14:14:50 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -16,6 +16,7 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 15/ABG | <img src="product-images/15_ABG-front-1.jpg"> | <img src="product-images/15_ABG-back-1.jpg"> | <img src="product-images/15_ABG-open-1.jpg"> | <img src="product-images/15_ABG-detail-1.jpg"> | <img src="product-images/15_ABG-sample-1.jpg">
 15/ABK | <img src="product-images/15_ABK-front-1.jpg"> | <img src="product-images/15_ABK-back-1.jpg"> | <img src="product-images/15_ABK-open-1.jpg"> | <img src="product-images/15_ABK-detail-1.jpg"> | <img src="product-images/15_ABK-sample-1.jpg">
 15/ABL | <img src="product-images/15_ABL-front-1.jpg"> | <img src="product-images/15_ABL-back-1.jpg"> | <img src="product-images/15_ABL-open-1.jpg"> | <img src="product-images/15_ABL-detail-1.jpg"> | <img src="product-images/15_ABL-sample-1.jpg">
+15CBTYN/AC | <img src="product-images/15CBTYN_AC-front-1.jpg"> | <img src="product-images/15CBTYN_AC-back-1.jpg"> | <img src="product-images/15CBTYN_AC-open-1.jpg"> | <img src="product-images/15CBTYN_AC-detail-1.jpg"> | <img src="product-images/15CBTYN_AC-sample-1.jpg">
 25/ABK | <img src="product-images/25_ABK-front-1.jpg"> | <img src="product-images/25_ABK-back-1.jpg"> | <img src="product-images/25_ABK-open-1.jpg"> | <img src="product-images/25_ABK-detail-1.jpg"> | <img src="product-images/25_ABK-sample-1.jpg">
 25/ABL | <img src="product-images/25_ABL-front-1.jpg"> | <img src="product-images/25_ABL-back-1.jpg"> | <img src="product-images/25_ABL-open-1.jpg"> | <img src="product-images/25_ABL-detail-1.jpg"> | <img src="product-images/25_ABL-sample-1.jpg">
 25/ARD | <img src="product-images/25_ARD-front-1.jpg"> | <img src="product-images/25_ARD-back-1.jpg"> | <img src="product-images/25_ARD-open-1.jpg"> | <img src="product-images/25_ARD-detail-1.jpg"> | <img src="product-images/25_ARD-sample-1.jpg">
