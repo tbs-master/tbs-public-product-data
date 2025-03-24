@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Wed Mar 12 2025 14:14:50 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Thu Mar 20 2025 14:49:01 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -23,7 +23,6 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 25/SBG | <img src="web-images/25_SBG-front-1.jpg"> | <img src="web-images/25_SBG-back-1.jpg"> | <img src="web-images/25_SBG-open-1.jpg"> | <img src="web-images/25_SBG-detail-1.jpg"> | <img src="web-images/25_SBG-sample-1.jpg">
 25/FBL | <img src="web-images/25_FBL-front-1.jpg"> | <img src="web-images/25_FBL-back-1.jpg"> | <img src="web-images/25_FBL-open-1.jpg"> | <img src="web-images/25_FBL-detail-1.jpg"> | <img src="web-images/25_FBL-sample-1.jpg">
 25MP/ABK | <img src="web-images/25MP_ABK-front-1.jpg"> | <img src="web-images/25MP_ABK-back-1.jpg"> | <img src="web-images/25MP_ABK-open-1.jpg"> | <img src="web-images/25MP_ABK-detail-1.jpg"> | <img src="web-images/25MP_ABK-sample-1.jpg">
-25/ETTBR | <img src="web-images/25_ETTBR-front-1.jpg"> | <img src="web-images/25_ETTBR-back-1.jpg"> | <img src="web-images/25_ETTBR-open-1.jpg"> | <img src="web-images/25_ETTBR-detail-1.jpg"> | <img src="web-images/25_ETTBR-sample-1.jpg">
 25/UBK | <img src="web-images/25_UBK-front-1.jpg"> | <img src="web-images/25_UBK-back-1.jpg"> | <img src="web-images/25_UBK-open-1.jpg"> | <img src="web-images/25_UBK-detail-1.jpg"> | <img src="web-images/25_UBK-sample-1.jpg">
 25MP/UBK | <img src="web-images/25MP_UBK-front-1.jpg"> | <img src="web-images/25MP_UBK-back-1.jpg"> | <img src="web-images/25MP_UBK-open-1.jpg"> | <img src="web-images/25MP_UBK-detail-1.jpg"> | <img src="web-images/25MP_UBK-sample-1.jpg">
 35LP/ABK | <img src="web-images/35LP_ABK-front-1.jpg"> | <img src="web-images/35LP_ABK-back-1.jpg"> | <img src="web-images/35LP_ABK-open-1.jpg"> | <img src="web-images/35LP_ABK-detail-1.jpg"> | <img src="web-images/35LP_ABK-sample-1.jpg">
