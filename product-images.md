@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Tue Apr 01 2025 11:15:38 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Apr 04 2025 16:45:27 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -58,6 +58,7 @@ HBOGRCB/ABK | <img src="product-images/HBOGRCB_ABK-front-1.jpg"> | <img src="pro
 GRCNT/ABK | <img src="product-images/GRCNT_ABK-front-1.jpg"> | <img src="product-images/GRCNT_ABK-back-1.jpg"> | <img src="product-images/GRCNT_ABK-open-1.jpg"> | <img src="product-images/GRCNT_ABK-detail-1.jpg"> | <img src="product-images/GRCNT_ABK-sample-1.jpg">
 GRCNT/UBK | <img src="product-images/GRCNT_UBK-front-1.jpg"> | <img src="product-images/GRCNT_UBK-back-1.jpg"> | <img src="product-images/GRCNT_UBK-open-1.jpg"> | <img src="product-images/GRCNT_UBK-detail-1.jpg"> | <img src="product-images/GRCNT_UBK-sample-1.jpg">
 AMHNTP/SBK | <img src="product-images/AMHNTP_SBK-front-1.jpg"> | <img src="product-images/AMHNTP_SBK-back-1.jpg"> | <img src="product-images/AMHNTP_SBK-open-1.jpg"> | <img src="product-images/AMHNTP_SBK-detail-1.jpg"> | <img src="product-images/AMHNTP_SBK-sample-1.jpg">
+AMHNTP/SBKX | <img src="product-images/AMHNTP_SBKX-front-1.jpg"> | <img src="product-images/AMHNTP_SBKX-back-1.jpg"> | <img src="product-images/AMHNTP_SBKX-open-1.jpg"> | <img src="product-images/AMHNTP_SBKX-detail-1.jpg"> | <img src="product-images/AMHNTP_SBKX-sample-1.jpg">
 AMHJN | <img src="product-images/AMHJN-front-1.jpg"> | <img src="product-images/AMHJN-back-1.jpg"> | <img src="product-images/AMHJN-open-1.jpg"> | <img src="product-images/AMHJN-detail-1.jpg"> | <img src="product-images/AMHJN-sample-1.jpg">
 ARBB/ABK | <img src="product-images/ARBB_ABK-front-1.jpg"> | <img src="product-images/ARBB_ABK-back-1.jpg"> | <img src="product-images/ARBB_ABK-open-1.jpg"> | <img src="product-images/ARBB_ABK-detail-1.jpg"> | <img src="product-images/ARBB_ABK-sample-1.jpg">
 ARBNT/SBL | <img src="product-images/ARBNT_SBL-front-1.jpg"> | <img src="product-images/ARBNT_SBL-back-1.jpg"> | <img src="product-images/ARBNT_SBL-open-1.jpg"> | <img src="product-images/ARBNT_SBL-detail-1.jpg"> | <img src="product-images/ARBNT_SBL-sample-1.jpg">
