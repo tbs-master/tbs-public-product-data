@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Tue Apr 08 2025 20:57:10 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Wed Apr 16 2025 15:00:25 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -48,6 +48,7 @@ Prod ID | Main image | Additional image 1 | Additional image 2 | Additional imag
 42/SRD | <img src="web-images/42_SRD-front-1.jpg"> | <img src="web-images/42_SRD-back-1.jpg"> | <img src="web-images/42_SRD-open-1.jpg"> | <img src="web-images/42_SRD-detail-1.jpg"> | <img src="web-images/42_SRD-sample-1.jpg">
 74XXLP/ABR | <img src="web-images/74XXLP_ABR-front-1.jpg"> | <img src="web-images/74XXLP_ABR-back-1.jpg"> | <img src="web-images/74XXLP_ABR-open-1.jpg"> | <img src="web-images/74XXLP_ABR-detail-1.jpg"> | <img src="web-images/74XXLP_ABR-sample-1.jpg">
 JN | <img src="web-images/JN-front-1.jpg"> | <img src="web-images/JN-back-1.jpg"> | <img src="web-images/JN-open-1.jpg"> | <img src="web-images/JN-detail-1.jpg"> | <img src="web-images/JN-sample-1.jpg">
+JN/VE | <img src="web-images/JN_VE-front-1.jpg"> | <img src="web-images/JN_VE-back-1.jpg"> | <img src="web-images/JN_VE-open-1.jpg"> | <img src="web-images/JN_VE-detail-1.jpg"> | <img src="web-images/JN_VE-sample-1.jpg">
 LK | <img src="web-images/LK-front-1.jpg"> | <img src="web-images/LK-back-1.jpg"> | <img src="web-images/LK-open-1.jpg"> | <img src="web-images/LK-detail-1.jpg"> | <img src="web-images/LK-sample-1.jpg">
 MK | <img src="web-images/MK-front-1.jpg"> | <img src="web-images/MK-back-1.jpg"> | <img src="web-images/MK-open-1.jpg"> | <img src="web-images/MK-detail-1.jpg"> | <img src="web-images/MK-sample-1.jpg">
 MT | <img src="web-images/MT-front-1.jpg"> | <img src="web-images/MT-back-1.jpg"> | <img src="web-images/MT-open-1.jpg"> | <img src="web-images/MT-detail-1.jpg"> | <img src="web-images/MT-sample-1.jpg">
