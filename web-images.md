@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Tue May 27 2025 21:59:38 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Wed May 28 2025 17:18:29 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -123,6 +123,8 @@ SLKJNR | <img src="web-images/SLKJNR-front-1.jpg"> | <img src="web-images/SLKJNR
 SPAB/ABK | <img src="web-images/SPAB_ABK-front-1.jpg"> | <img src="web-images/SPAB_ABK-back-1.jpg"> | <img src="web-images/SPAB_ABK-open-1.jpg"> | <img src="web-images/SPAB_ABK-detail-1.jpg"> | <img src="web-images/SPAB_ABK-sample-1.jpg">
 SPANTPP/SBL | <img src="web-images/SPANTPP_SBL-front-1.jpg"> | <img src="web-images/SPANTPP_SBL-back-1.jpg"> | <img src="web-images/SPANTPP_SBL-open-1.jpg"> | <img src="web-images/SPANTPP_SBL-detail-1.jpg"> | <img src="web-images/SPANTPP_SBL-sample-1.jpg">
 SPAJN | <img src="web-images/SPAJN-front-1.jpg"> | <img src="web-images/SPAJN-back-1.jpg"> | <img src="web-images/SPAJN-open-1.jpg"> | <img src="web-images/SPAJN-detail-1.jpg"> | <img src="web-images/SPAJN-sample-1.jpg">
+TGLJN | <img src="web-images/TGLJN-front-1.jpg"> | <img src="web-images/TGLJN-back-1.jpg"> | <img src="web-images/TGLJN-open-1.jpg"> | <img src="web-images/TGLJN-detail-1.jpg"> | <img src="web-images/TGLJN-sample-1.jpg">
+TAMJN | <img src="web-images/TAMJN-front-1.jpg"> | <img src="web-images/TAMJN-back-1.jpg"> | <img src="web-images/TAMJN-open-1.jpg"> | <img src="web-images/TAMJN-detail-1.jpg"> | <img src="web-images/TAMJN-sample-1.jpg">
 TURNT/SBG | <img src="web-images/TURNT_SBG-front-1.jpg"> | <img src="web-images/TURNT_SBG-back-1.jpg"> | <img src="web-images/TURNT_SBG-open-1.jpg"> | <img src="web-images/TURNT_SBG-detail-1.jpg"> | <img src="web-images/TURNT_SBG-sample-1.jpg">
 TURJN2 | <img src="web-images/TURJN2-front-1.jpg"> | <img src="web-images/TURJN2-back-1.jpg"> | <img src="web-images/TURJN2-open-1.jpg"> | <img src="web-images/TURJN2-detail-1.jpg"> | <img src="web-images/TURJN2-sample-1.jpg">
 UKRB/ABK | <img src="web-images/UKRB_ABK-front-1.jpg"> | <img src="web-images/UKRB_ABK-back-1.jpg"> | <img src="web-images/UKRB_ABK-open-1.jpg"> | <img src="web-images/UKRB_ABK-detail-1.jpg"> | <img src="web-images/UKRB_ABK-sample-1.jpg">
