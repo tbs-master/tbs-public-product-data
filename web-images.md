@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Thu Aug 07 2025 14:19:24 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Fri Aug 08 2025 14:03:26 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -83,7 +83,7 @@ MLTJN | <img src="web-images/MLTJN-front-1.jpg"> | <img src="web-images/MLTJN-ba
 MRIB/ABK | <img src="web-images/MRIB_ABK-front-1.jpg"> | <img src="web-images/MRIB_ABK-back-1.jpg"> | <img src="web-images/MRIB_ABK-open-1.jpg"> | <img src="web-images/MRIB_ABK-detail-1.jpg"> | <img src="web-images/MRIB_ABK-sample-1.jpg">
 NDEB/ABK | <img src="web-images/NDEB_ABK-front-1.jpg"> | <img src="web-images/NDEB_ABK-back-1.jpg"> | <img src="web-images/NDEB_ABK-open-1.jpg"> | <img src="web-images/NDEB_ABK-detail-1.jpg"> | <img src="web-images/NDEB_ABK-sample-1.jpg">
 NDEBMP/ABK | <img src="web-images/NDEBMP_ABK-front-1.jpg"> | <img src="web-images/NDEBMP_ABK-back-1.jpg"> | <img src="web-images/NDEBMP_ABK-open-1.jpg"> | <img src="web-images/NDEBMP_ABK-detail-1.jpg"> | <img src="web-images/NDEBMP_ABK-sample-1.jpg">
-NEPB/FBK | <img src="web-images/NEPB_FBK-front-1.jpg"> | <img src="web-images/NEPB_FBK-back-1.jpg"> | <img src="web-images/NEPB_FBK-open-1.jpg"> | <img src="web-images/NEPB_FBK-detail-1.jpg"> | <img src="web-images/NEPB_FBK-sample-1.jpg">
+NEPB/ABK | <img src="web-images/NEPB_ABK-front-1.jpg"> | <img src="web-images/NEPB_ABK-back-1.jpg"> | <img src="web-images/NEPB_ABK-open-1.jpg"> | <img src="web-images/NEPB_ABK-detail-1.jpg"> | <img src="web-images/NEPB_ABK-sample-1.jpg">
 NEPJN2 | <img src="web-images/NEPJN2-front-1.jpg"> | <img src="web-images/NEPJN2-back-1.jpg"> | <img src="web-images/NEPJN2-open-1.jpg"> | <img src="web-images/NEPJN2-detail-1.jpg"> | <img src="web-images/NEPJN2-sample-1.jpg">
 FASNT/SBG | <img src="web-images/FASNT_SBG-front-1.jpg"> | <img src="web-images/FASNT_SBG-back-1.jpg"> | <img src="web-images/FASNT_SBG-open-1.jpg"> | <img src="web-images/FASNT_SBG-detail-1.jpg"> | <img src="web-images/FASNT_SBG-sample-1.jpg">
 FASJN2 | <img src="web-images/FASJN2-front-1.jpg"> | <img src="web-images/FASJN2-back-1.jpg"> | <img src="web-images/FASJN2-open-1.jpg"> | <img src="web-images/FASJN2-detail-1.jpg"> | <img src="web-images/FASJN2-sample-1.jpg">
