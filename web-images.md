@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Wed Sep 17 2025 09:10:38 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Wed Sep 17 2025 12:35:53 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -118,6 +118,7 @@ CHIWLC26 | <img src="web-images/CHIWLC26-front-1.jpg"> | <img src="web-images/CH
 FRAWLC26 | <img src="web-images/FRAWLC26-front-1.jpg"> | <img src="web-images/FRAWLC26-back-1.jpg"> | <img src="web-images/FRAWLC26-open-1.jpg"> | <img src="web-images/FRAWLC26-detail-1.jpg"> | <img src="web-images/FRAWLC26-sample-1.jpg">
 FRAGTC26 | <img src="web-images/FRAGTC26-front-1.jpg"> | <img src="web-images/FRAGTC26-back-1.jpg"> | <img src="web-images/FRAGTC26-open-1.jpg"> | <img src="web-images/FRAGTC26-detail-1.jpg"> | <img src="web-images/FRAGTC26-sample-1.jpg">
 HAUGTC26 | <img src="web-images/HAUGTC26-front-1.jpg"> | <img src="web-images/HAUGTC26-back-1.jpg"> | <img src="web-images/HAUGTC26-open-1.jpg"> | <img src="web-images/HAUGTC26-detail-1.jpg"> | <img src="web-images/HAUGTC26-sample-1.jpg">
+HUNWLC26 | <img src="web-images/HUNWLC26-front-1.jpg"> | <img src="web-images/HUNWLC26-back-1.jpg"> | <img src="web-images/HUNWLC26-open-1.jpg"> | <img src="web-images/HUNWLC26-detail-1.jpg"> | <img src="web-images/HUNWLC26-sample-1.jpg">
 NDEGTC26 | <img src="web-images/NDEGTC26-front-1.jpg"> | <img src="web-images/NDEGTC26-back-1.jpg"> | <img src="web-images/NDEGTC26-open-1.jpg"> | <img src="web-images/NDEGTC26-detail-1.jpg"> | <img src="web-images/NDEGTC26-sample-1.jpg">
 PORGTC26 | <img src="web-images/PORGTC26-front-1.jpg"> | <img src="web-images/PORGTC26-back-1.jpg"> | <img src="web-images/PORGTC26-open-1.jpg"> | <img src="web-images/PORGTC26-detail-1.jpg"> | <img src="web-images/PORGTC26-sample-1.jpg">
 RONWLC26 | <img src="web-images/RONWLC26-front-1.jpg"> | <img src="web-images/RONWLC26-back-1.jpg"> | <img src="web-images/RONWLC26-open-1.jpg"> | <img src="web-images/RONWLC26-detail-1.jpg"> | <img src="web-images/RONWLC26-sample-1.jpg">
