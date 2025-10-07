@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Thu Oct 02 2025 12:58:49 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Tue Oct 07 2025 21:37:24 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -112,6 +112,8 @@ UKRJN | <img src="product-images/UKRJN-front-1.jpg"> | <img src="product-images/
 CYMMK | <img src="product-images/CYMMK-front-1.jpg"> | <img src="product-images/CYMMK-back-1.jpg"> | <img src="product-images/CYMMK-open-1.jpg"> | <img src="product-images/CYMMK-detail-1.jpg"> | <img src="product-images/CYMMK-sample-1.jpg">
 ENGWLC26 | <img src="product-images/ENGWLC26-front-1.jpg"> | <img src="product-images/ENGWLC26-back-1.jpg"> | <img src="product-images/ENGWLC26-open-1.jpg"> | <img src="product-images/ENGWLC26-detail-1.jpg"> | <img src="product-images/ENGWLC26-sample-1.jpg">
 ENGGTC26 | <img src="product-images/ENGGTC26-front-1.jpg"> | <img src="product-images/ENGGTC26-back-1.jpg"> | <img src="product-images/ENGGTC26-open-1.jpg"> | <img src="product-images/ENGGTC26-detail-1.jpg"> | <img src="product-images/ENGGTC26-sample-1.jpg">
+DY26/SBL | <img src="product-images/DY26_SBL-front-1.jpg"> | <img src="product-images/DY26_SBL-back-1.jpg"> | <img src="product-images/DY26_SBL-open-1.jpg"> | <img src="product-images/DY26_SBL-detail-1.jpg"> | <img src="product-images/DY26_SBL-sample-1.jpg">
+DY26/SC | <img src="product-images/DY26_SC-front-1.jpg"> | <img src="product-images/DY26_SC-back-1.jpg"> | <img src="product-images/DY26_SC-open-1.jpg"> | <img src="product-images/DY26_SC-detail-1.jpg"> | <img src="product-images/DY26_SC-sample-1.jpg">
 AFRGTC26 | <img src="product-images/AFRGTC26-front-1.jpg"> | <img src="product-images/AFRGTC26-back-1.jpg"> | <img src="product-images/AFRGTC26-open-1.jpg"> | <img src="product-images/AFRGTC26-detail-1.jpg"> | <img src="product-images/AFRGTC26-sample-1.jpg">
 ALBWLC26 | <img src="product-images/ALBWLC26-front-1.jpg"> | <img src="product-images/ALBWLC26-back-1.jpg"> | <img src="product-images/ALBWLC26-open-1.jpg"> | <img src="product-images/ALBWLC26-detail-1.jpg"> | <img src="product-images/ALBWLC26-sample-1.jpg">
 BULWLC26 | <img src="product-images/BULWLC26-front-1.jpg"> | <img src="product-images/BULWLC26-back-1.jpg"> | <img src="product-images/BULWLC26-open-1.jpg"> | <img src="product-images/BULWLC26-detail-1.jpg"> | <img src="product-images/BULWLC26-sample-1.jpg">
