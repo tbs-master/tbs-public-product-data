@@ -1,6 +1,6 @@
 ## Web Images Preview
 
-<sup dir="rtl">generated Wed Nov 05 2025 14:27:29 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Mon Nov 10 2025 14:57:36 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -99,6 +99,7 @@ SNAB/ABK | <img src="web-images/SNAB_ABK-front-1.jpg"> | <img src="web-images/SN
 SMTB/ABK | <img src="web-images/SMTB_ABK-front-1.jpg"> | <img src="web-images/SMTB_ABK-back-1.jpg"> | <img src="web-images/SMTB_ABK-open-1.jpg"> | <img src="web-images/SMTB_ABK-detail-1.jpg"> | <img src="web-images/SMTB_ABK-sample-1.jpg">
 SLKJNR | <img src="web-images/SLKJNR-front-1.jpg"> | <img src="web-images/SLKJNR-back-1.jpg"> | <img src="web-images/SLKJNR-open-1.jpg"> | <img src="web-images/SLKJNR-detail-1.jpg"> | <img src="web-images/SLKJNR-sample-1.jpg">
 SPAB/ABK | <img src="web-images/SPAB_ABK-front-1.jpg"> | <img src="web-images/SPAB_ABK-back-1.jpg"> | <img src="web-images/SPAB_ABK-open-1.jpg"> | <img src="web-images/SPAB_ABK-detail-1.jpg"> | <img src="web-images/SPAB_ABK-sample-1.jpg">
+SPAB/EBK | <img src="web-images/SPAB_EBK-front-1.jpg"> | <img src="web-images/SPAB_EBK-back-1.jpg"> | <img src="web-images/SPAB_EBK-open-1.jpg"> | <img src="web-images/SPAB_EBK-detail-1.jpg"> | <img src="web-images/SPAB_EBK-sample-1.jpg">
 SPANTPP/SBL | <img src="web-images/SPANTPP_SBL-front-1.jpg"> | <img src="web-images/SPANTPP_SBL-back-1.jpg"> | <img src="web-images/SPANTPP_SBL-open-1.jpg"> | <img src="web-images/SPANTPP_SBL-detail-1.jpg"> | <img src="web-images/SPANTPP_SBL-sample-1.jpg">
 SPAJN | <img src="web-images/SPAJN-front-1.jpg"> | <img src="web-images/SPAJN-back-1.jpg"> | <img src="web-images/SPAJN-open-1.jpg"> | <img src="web-images/SPAJN-detail-1.jpg"> | <img src="web-images/SPAJN-sample-1.jpg">
 TGLJN | <img src="web-images/TGLJN-front-1.jpg"> | <img src="web-images/TGLJN-back-1.jpg"> | <img src="web-images/TGLJN-open-1.jpg"> | <img src="web-images/TGLJN-detail-1.jpg"> | <img src="web-images/TGLJN-sample-1.jpg">
