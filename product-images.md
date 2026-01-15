@@ -1,6 +1,6 @@
 ## Product Images Preview
 
-<sup dir="rtl">generated Wed Dec 24 2025 11:56:04 GMT+0000 (Coordinated Universal Time)</sup>
+<sup dir="rtl">generated Thu Jan 15 2026 15:42:02 GMT+0000 (Coordinated Universal Time)</sup>
 
 Prod ID | Main image | Additional image 1 | Additional image 2 | Additional image 3 | Additional image 4
 --- | --- | ---| ---| ---| ---
@@ -78,7 +78,6 @@ KLNNT/ABK | <img src="product-images/KLNNT_ABK-front-1.jpg"> | <img src="product
 MLTB/ABK | <img src="product-images/MLTB_ABK-front-1.jpg"> | <img src="product-images/MLTB_ABK-back-1.jpg"> | <img src="product-images/MLTB_ABK-open-1.jpg"> | <img src="product-images/MLTB_ABK-detail-1.jpg"> | <img src="product-images/MLTB_ABK-sample-1.jpg">
 MLTJN | <img src="product-images/MLTJN-front-1.jpg"> | <img src="product-images/MLTJN-back-1.jpg"> | <img src="product-images/MLTJN-open-1.jpg"> | <img src="product-images/MLTJN-detail-1.jpg"> | <img src="product-images/MLTJN-sample-1.jpg">
 MRIB/ABK | <img src="product-images/MRIB_ABK-front-1.jpg"> | <img src="product-images/MRIB_ABK-back-1.jpg"> | <img src="product-images/MRIB_ABK-open-1.jpg"> | <img src="product-images/MRIB_ABK-detail-1.jpg"> | <img src="product-images/MRIB_ABK-sample-1.jpg">
-NDEB/ABK | <img src="product-images/NDEB_ABK-front-1.jpg"> | <img src="product-images/NDEB_ABK-back-1.jpg"> | <img src="product-images/NDEB_ABK-open-1.jpg"> | <img src="product-images/NDEB_ABK-detail-1.jpg"> | <img src="product-images/NDEB_ABK-sample-1.jpg">
 NDEBMP/ABK | <img src="product-images/NDEBMP_ABK-front-1.jpg"> | <img src="product-images/NDEBMP_ABK-back-1.jpg"> | <img src="product-images/NDEBMP_ABK-open-1.jpg"> | <img src="product-images/NDEBMP_ABK-detail-1.jpg"> | <img src="product-images/NDEBMP_ABK-sample-1.jpg">
 NEPB/ABK | <img src="product-images/NEPB_ABK-front-1.jpg"> | <img src="product-images/NEPB_ABK-back-1.jpg"> | <img src="product-images/NEPB_ABK-open-1.jpg"> | <img src="product-images/NEPB_ABK-detail-1.jpg"> | <img src="product-images/NEPB_ABK-sample-1.jpg">
 NEPJN2 | <img src="product-images/NEPJN2-front-1.jpg"> | <img src="product-images/NEPJN2-back-1.jpg"> | <img src="product-images/NEPJN2-open-1.jpg"> | <img src="product-images/NEPJN2-detail-1.jpg"> | <img src="product-images/NEPJN2-sample-1.jpg">
@@ -347,7 +346,6 @@ CFN5 | <img src="product-images/CFN5-front-1.jpg"> | <img src="product-images/CF
 CFN6 | <img src="product-images/CFN6-front-1.jpg"> | <img src="product-images/CFN6-back-1.jpg"> | <img src="product-images/CFN6-open-1.jpg"> | <img src="product-images/CFN6-detail-1.jpg"> | <img src="product-images/CFN6-sample-1.jpg">
 CFNSET | <img src="product-images/CFNSET-front-1.jpg"> | <img src="product-images/CFNSET-back-1.jpg"> | <img src="product-images/CFNSET-open-1.jpg"> | <img src="product-images/CFNSET-detail-1.jpg"> | <img src="product-images/CFNSET-sample-1.jpg">
 P01 | <img src="product-images/P01-front-1.jpg"> | <img src="product-images/P01-back-1.jpg"> | <img src="product-images/P01-open-1.jpg"> | <img src="product-images/P01-detail-1.jpg"> | <img src="product-images/P01-sample-1.jpg">
-TL2011S | <img src="product-images/TL2011S-front-1.jpg"> | <img src="product-images/TL2011S-back-1.jpg"> | <img src="product-images/TL2011S-open-1.jpg"> | <img src="product-images/TL2011S-detail-1.jpg"> | <img src="product-images/TL2011S-sample-1.jpg">
 TL2017REF | <img src="product-images/TL2017REF-front-1.jpg"> | <img src="product-images/TL2017REF-back-1.jpg"> | <img src="product-images/TL2017REF-open-1.jpg"> | <img src="product-images/TL2017REF-detail-1.jpg"> | <img src="product-images/TL2017REF-sample-1.jpg">
 MTB1 | <img src="product-images/MTB1-front-1.jpg"> | <img src="product-images/MTB1-back-1.jpg"> | <img src="product-images/MTB1-open-1.jpg"> | <img src="product-images/MTB1-detail-1.jpg"> | <img src="product-images/MTB1-sample-1.jpg">
 MBT06 | <img src="product-images/MBT06-front-1.jpg"> | <img src="product-images/MBT06-back-1.jpg"> | <img src="product-images/MBT06-open-1.jpg"> | <img src="product-images/MBT06-detail-1.jpg"> | <img src="product-images/MBT06-sample-1.jpg">
